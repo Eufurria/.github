@@ -1,4 +1,4 @@
-# Eufurria ![](/assets/logo.png)
+# Eufurria ![logo](/assets/logo.png)
 
 Welcome to **Eufurria** 🐾✨
 
