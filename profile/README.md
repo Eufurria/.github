@@ -1,4 +1,4 @@
-# Eufurria ![Eufurria Logo](./assets/eufurria-logo.svg)
+# Eufurria ![](/assets/logo.png)
 
 Welcome to **Eufurria** 🐾✨
 
@@ -20,9 +20,7 @@ We encourage contributions to our custom platform, whether by improving bots or 
 
 ## 📚 Resources
 
-- [Furry Art Sharing](https://eufurria.org/art)
-- [Community Events](https://eufurria.org/events)
-- [Fursona Resources](https://eufurria.org/fursonas)
+TODO
 
 ## 🐾 License
 
