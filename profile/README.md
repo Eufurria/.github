@@ -1,9 +1,10 @@
-# Eufurria ![Eufurria Logo](./profile/assets/logo.png)
-
-Welcome to **Eufurria** 🐾✨
+# Eufurria 
+Welcome to **Eufurria**  🐾✨
 
 Eufurria isn’t just about art and events. 
+
 Our platform hosts custom-built solutions, including bots and other tools, designed to enhance our community experience.
+
 From managing events to enabling interactions, our codebase helps bring the community closer.
 
 ## 💬 Join Us
@@ -12,7 +13,9 @@ From managing events to enabling interactions, our codebase helps bring the comm
 
 ## 🤝 Contributing
 
-We encourage contributions to our custom platform, whether by improving bots or developing new features to enhance the community experience.
+We encourage contributions from members to our platform, whether by improving bots or developing new features to enhance the community experience.
+
+If you're on of our members reach out to the moderation team to request acess and onboarding on our custom solutions.
 
 1. Fork the repo 🐾
 2. Create a new branch 🎨
