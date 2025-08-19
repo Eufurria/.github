@@ -1,4 +1,3 @@
-# Eufurria 
 Welcome to **Eufurria**  🐾✨
 
 Eufurria isn’t just about art and events.
