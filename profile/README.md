@@ -21,11 +21,11 @@ Concretely, that means:
 
 ## ⭐ North star
 
-**Users stay in front. That is where the development effort belongs.**
-We think as members. The staff view, and the volunteer view, come after that.
-What would help? What can we improve? How do we remove friction? That is the goal.
-***What we decide, what we build, what we write down, what we prioritise: it has to trace back to this.***
-Leave a change alone until it makes the website, Discord, or Telegram better for the people using them.
+**Users stay in front. That is where the development effort belongs.**\n
+We think as members. The staff view, and the volunteer view, come after that.\n
+What would help? What can we improve? How do we remove friction? That is the goal.\n
+***What we decide, what we build, what we write down, what we prioritise: it has to trace back to this.***\n
+Leave a change alone until it makes the website, Discord, or Telegram better for the people using them.\n
 
 ## 💬 Join us
 
