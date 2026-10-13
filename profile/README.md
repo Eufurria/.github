@@ -1,12 +1,12 @@
-Welcome to **Eufurria** 🐾✨
+Welcome to **Eufurria**  🐾✨
+
+Eufurria isn’t just about art and events.
+Our platform hosts custom-built solutions, including bots and other tools, designed to enhance our community experience.
+From managing events to enabling interactions, our codebase helps bring the community closer.
 
 ## 🔮 Vision
 
 Members should enjoy the tech around Eufurria. It should feel engaging and fun to use, and stay reliable and easy to maintain behind the scenes.
-
-## Mission
-
-Eufurria isn’t just about art and events. The community runs on custom-built solutions, bots and other tools included, made to support how we actually spend time together. From running events to opening up conversations, the codebase is there to bring people closer.
 
 ## 🤝 Values
 
